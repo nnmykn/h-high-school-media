@@ -2,7 +2,7 @@
 
 N高情報サイトの公式リポジトリです。
 
-開発用URL: [https://h-high-school-media.vercel.app/](https://h-high-school-media.vercel.app/)
+開発用URL: [https://h-high-school-media-develop.vercel.app/](https://h-high-school-media-develop.vercel.app/)
 
 [![License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/nnmykn/h-high-school-media)
 [![Stars](https://img.shields.io/github/stars/nnmykn/h-high-school-media)](https://github.com/nnmykn/h-high-school-media)
